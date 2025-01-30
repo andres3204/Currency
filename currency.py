@@ -1,3 +1,7 @@
+# Andres Jimenez
+# January 27, 2025
+# Currency converter
+
 import tkinter as tk
 from tkinter import messagebox, Toplevel, Label, Button
 
